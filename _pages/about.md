@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Flow Physics @ California Institute of Technology"
+title: "Wei Hou"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am a PhD candidate at California Institute of Technology working with Prof. Tim Colonius. I am interested in computational methods and their applications in fluid mechanics.
 
 High-fidelity and high-performance numerical algorithms
 ======
