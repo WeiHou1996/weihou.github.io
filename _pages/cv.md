@@ -20,10 +20,3 @@ Awards and Honor
 * Outstanding Bachelor of Science, Mechanical and Aerospace Engineering, UCLA. (Awarded to the top 1 student in the major in the graduating class)
 * The Allan Acosta Endowed Graduate Fellowship, California Institute of Technology.
 * Guggenheim Fellowship, California Institute of Technology.
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
