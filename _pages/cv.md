@@ -15,7 +15,7 @@ Education
 * B.S. in Aerospace Engineering, University of California Los Angeles, 2019
 * B.S. in Applied Mathematics, University of California Los Angeles, 2019
 
-Awards and Honor
+Awards and Honors
 ======
 * Outstanding Bachelor of Science, Mechanical and Aerospace Engineering, UCLA. (Awarded to the top 1 student in the major in the graduating class)
 * The Allan Acosta Endowed Graduate Fellowship, California Institute of Technology.
