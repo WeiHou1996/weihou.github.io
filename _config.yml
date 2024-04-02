@@ -21,7 +21,7 @@ repository               : "WeiHou1996/weihou1996.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Wei Hou"
   pronouns         : # example: "he/his"  
   bio              : "Computational Math and Physics"
