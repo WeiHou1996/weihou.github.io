@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -20,3 +20,11 @@ Awards and Honors
 * Outstanding Bachelor of Science, Mechanical and Aerospace Engineering, UCLA. (Awarded to the top 1 student in the major in the graduating class)
 * The Allan Acosta Endowed Graduate Fellowship, California Institute of Technology.
 * Guggenheim Fellowship, California Institute of Technology.
+
+Publications
+======
+* Hou, W., & Colonius, T. (2024). Fast and robust method for screened Poisson lattice Green's function using asymptotic expansion and Fast Fourier Transform. arXiv preprint arXiv:2403.03076.
+* Hou, W., & Colonius, T. (2024). An adaptive lattice Green's function method for external flows with two unbounded and one homogeneous directions. arXiv preprint arXiv:2402.13370.
+* Hou, W., & Colonius, T. (2023). Three-dimensional Stability and Resolvent Analysis of External Flows Over Spanwise-homogeneous Immersed Bodies. In AIAA AVIATION 2023 Forum (p. 3414).
+* Le Provost, M., Hou, W., & Eldredge, J. (2020). Deep learning and data assimilation approaches to sensor reduction in estimation of disturbed separated flows. In AIAA Scitech 2020 Forum (p. 0799).
+* Hou, W., Darakananda, D., & Eldredge, J. D. (2019). Machine-learning-based detection of aerodynamic disturbances using surface pressure measurements. AIAA Journal, 57(12), 5079-5093.
