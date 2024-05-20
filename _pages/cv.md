@@ -17,6 +17,7 @@ Education
 
 Awards and Honors
 ======
+* Keynote Speaker of the 3rd Colloquium on Vortex Dominated Flows – DisCoVor 2024, Delft, Netherlands
 * Outstanding Bachelor of Science, Mechanical and Aerospace Engineering, UCLA. (Awarded to the top 1 student in the major in the graduating class)
 * The Allan Acosta Endowed Graduate Fellowship, California Institute of Technology.
 * Guggenheim Fellowship, California Institute of Technology.
